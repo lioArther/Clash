@@ -1,4 +1,5 @@
-  payload:
+payload:
+
   # > Alibaba
   # USER-AGENT,%E4%BC%98%E9%85%B7*
   - DOMAIN-SUFFIX,alibaba.com
@@ -10,15 +11,10 @@
   - DOMAIN-SUFFIX,autonavi.com
   - DOMAIN-SUFFIX,dingtalk.com
   - DOMAIN-SUFFIX,mxhichina.com
+  - DOMAIN-SUFFIX,soku.com
   - DOMAIN-SUFFIX,taobao.com
   - DOMAIN-SUFFIX,tmall.com
   - DOMAIN-SUFFIX,tmall.hk
   - DOMAIN-SUFFIX,ykimg.com
-
-  
- # - DOMAIN-SUFFIX,soku.com
- # - DOMAIN-SUFFIX,youku.com
- # - DOMAIN-SUFFIX,xiami.com
- # - DOMAIN-SUFFIX,xiami.net
-  
-  
+  - DOMAIN-SUFFIX,youku.com
+  - DOMAIN-SUFFIX,xiami.com
